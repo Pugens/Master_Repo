@@ -5,7 +5,7 @@ import math
 import time
 import numpy
 
-TargetSampleNumber = 1024
+TargetSampleNumber = 10000
 TargetRate =  1000
 #Frequency =  8000 / ( integr value + 1)  minimum frequency=32,25
 
